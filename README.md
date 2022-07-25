@@ -1,4 +1,4 @@
-# rMoney 记账
+# R记账
 一款基于 **React** | **React Router** | **TypeScript** 的极简记账应用。
 
 特点是快速记账，生成流水并进行统计分析，通过 ECharts 折线图展示收支趋势。
